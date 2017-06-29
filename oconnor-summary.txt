@@ -1,0 +1,16 @@
+On my third day of Bootcamp, we took an in depth look at Bootstrap, which is an open-source tool for Developers
+to create websites and applications. Bootstrap uses a grid-like system of rows and columns to make sites have a 
+very polished and clean aesthetic. Though this sounds like a wonderful thing with no downsides, it can be very 
+easy to get lost in your HTML using Bootstrap, simply because of all of the div tags that you will need to use...
+So it is incredibly important to keep notes in your coding, or pay close attention to your coding. 
+	Before class even started, one of the pre-work assignments was to create a site using Bootstrap, 
+which is a site that I completed. In completeing the Bootstrap site portion of my pre-work, I learned quite a 
+bit about it, and I'd be lying if I said that I didn't love it. I found it very easy to use and intuitive, and wondered
+why people didn't use Bootstrap for all of their coding needs! I can say now though, that after the Day 3 lesson,
+Bootstrap is a wonderful tool that should be used in moderation. 
+	Another thing that I learned on Day 3 was how to effectively use Gitbash to upload to Github! Though I am
+not an expert on Gitbash or anything, uploading Lab 3 onto Github on Day 2, I officially started to feel comfortable 
+with using Gitbash, which is a huge achievement for me. Finally, the most important thing that I learned on Day 3,
+was that I have Imposter Syndrome and that I need to remedy this situation. I am officially in the process of 
+squashing my bad habits, thanks to our soft skill meeting. I really appreciated that meeting, and to all
+readers of my summary, you have no idea how badly I needed to hear that I was not alone. Thank you all.
